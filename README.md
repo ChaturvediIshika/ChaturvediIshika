@@ -17,7 +17,7 @@
 - A passionate Front-end developer
 - Working on enhancing my programming skills
 - Currently learning Full Stack Development
-- Personal website [link](https://anikateagrawal.github.io/My-Resume/)
+- Personal website [link](https://chaturvediishika.github.io/PORTFOLIO/)
 
 
 <br><br>
