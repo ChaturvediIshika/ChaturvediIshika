@@ -71,10 +71,10 @@
 
 # <b>Coding Profiles </b><br>
 <div >
-    <a href="https://leetcode.com/Anikate_Agrawal/">
+    <a href="https://leetcode.com/ishika_31/">
         <img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" alt="leetcode profile" width="250">
     </a>
-    <a href="https://www.hackerrank.com/anikate_agrawal1">
+    <a href="https://www.hackerrank.com/_201500306">
         <img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="hackerrank profile" width="200">
     </a>
 </div>
@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<a href="https://github.com/anikateagrawal/">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikateagrawal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikateagrawal&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="325" height="200" alt="Anikate Agrawal"/>
+<a href="https://github.com/ChaturvediIshika">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaturvediIshika&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaturvediIshika&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="325" height="200" alt="Ishika Chaturvedi"/>
 
 </a>
 </div>
