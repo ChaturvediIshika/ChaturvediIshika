@@ -14,9 +14,9 @@
 
 <br>
 
-- A passionate Front-end developer
+- A passionate Full-Stack developer
 - Working on enhancing my programming skills
-- Currently learning Full Stack Development
+- Currently looking for a job
 - Personal website [link](https://chaturvediishika.github.io/PORTFOLIO/)
 
 
@@ -42,6 +42,9 @@
    ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=100&color=currentColor)
    ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
    ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor)
+   <img src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongoDB" height="80" width="100">
+   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="mongoDB" height="100" width="150">
+   <img src="https://miro.medium.com/max/1400/1*JTVVQUW71CNf2ySo5h45zA.png" alt="mongoDB" height="80" width="100">
 
 <br>
 
