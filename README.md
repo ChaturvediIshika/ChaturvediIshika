@@ -77,6 +77,13 @@
     <a href="https://www.hackerrank.com/_201500306">
         <img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="hackerrank profile" width="200">
     </a>
+    <a href="https://codeforces.com/profile/ishika_31">
+        <img src="https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1" alt="Codeforces profile" width="200">
+    </a>
+    <a href="https://www.codechef.com/users/cishika104">
+        <img src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="CodeChef profile" width="200">
+    </a>
+
 </div>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
