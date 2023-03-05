@@ -83,6 +83,9 @@
     <a href="https://www.codechef.com/users/cishika104">
         <img src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="CodeChef profile" width="200">
     </a>
+    <a href="https://auth.geeksforgeeks.org/user/cishika104/practice">
+        <img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="GFG profile" width="200">
+    </a>
 
 </div>
 
