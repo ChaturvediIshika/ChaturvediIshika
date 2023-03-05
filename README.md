@@ -37,7 +37,7 @@
 
 <br>   
 
-## Front-End Development 
+## FULL STACK Development 
 -
    ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=100&color=currentColor)
    ![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=100&color=currentColor)
